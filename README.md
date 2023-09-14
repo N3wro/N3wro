@@ -1,8 +1,21 @@
+<head>
+<style>
+ #div {
+   text-align: center
+ }
+</style>
+   </head> 
+   <body> 
+<div > 
+
+ </div>
+
 ### Hi there 👋
 
 <p>My name is Efekan Kartal and I am a software developer from Austria. </p>
 
 <h2>  </h2>
+
 
 
 
@@ -21,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</body> 
