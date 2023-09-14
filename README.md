@@ -1,14 +1,4 @@
-<head>
-<style>
- #div {
-   text-align: center
- }
-</style>
-   </head> 
-   <body> 
-<div > 
 
- </div>
 
 ### Hi there 👋
 
@@ -35,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</body> 
+
