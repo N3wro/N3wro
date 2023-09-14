@@ -1,5 +1,7 @@
 
 
+<img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/github-name-intro-cut.gif" height=300 >
+
 ### Hi there 👋
 
 <p>My name is Efekan Kartal and I am a software developer from Austria. </p>
