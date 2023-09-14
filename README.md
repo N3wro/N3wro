@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p>My name is Efekan Kartal and I am a software developer from Austria. </p>
+
+<h2>  </h2>
+
+
+
+
 <!--
 **N3wro/N3wro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
