@@ -6,10 +6,21 @@
 
 <p>My name is Efekan Kartal and I am a software developer from Austria. </p>
 
-<h2> Skills </h2>
+<h2> Programming Languages </h2>
 
+<ul>
+  <li> Know/Using</li>
+</ul>
 
-
+<table>
+  <tr>
+    <th>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src=""> 
+      </a>
+    </th>
+  </tr>
+</table>
 
 
 <!--
