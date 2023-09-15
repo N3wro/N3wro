@@ -6,7 +6,7 @@
 
 <p>My name is Efekan Kartal and I am a software developer from Austria. </p>
 
-<h2> Programming Languages / Framework </h2>
+<h2>Technologies</h2>
 
 <ul>
   <li> Know/Using</li>
@@ -38,11 +38,41 @@
       <a href="https://flutter.dev/">
       <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/Flutter.png" height=30> 
       </a>
-  
+      </th>
+     <th>
+      <a href="https://spring.io/">
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/spring.png" height=30> 
+      </a>
+      </th>
+    <th>
+      <a href="https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16">
+        <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/microsoft-sql.jpg" height=30>
+    </th>
+            <th>
+      <a href="https://www.mongodb.com/de-de">
+        <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/mongoDB.png" height=30>
+    </th>
   </tr>
 </table>
 
 
+<ul>
+  <li> Learning</li>
+</ul>
 
+<table>
+  <tr>
+    <th>
+      <a href="https://angular.io/"> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/angular.png" height=30>
+      </a>
+    </th>
+    <th>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/c-sharp.png" height=30>
+      </a>
+    </th>
+  </tr>
+</table>
 
 
