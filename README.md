@@ -16,41 +16,33 @@
   <tr>
     <th>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/javascript.png" height=20> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/javascript.png" height=30> 
       </a>
     </th>
       <th>
       <a href="https://www.typescriptlang.org/">
-      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/typescript.png" height=20> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/typescript.png" height=30> 
       </a>
     </th>
     <th>
       <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/C.png" height=20> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/C.png" height=30> 
       </a>
     </th>
-        <th>
+     <th>
       <a href="https://www.java.com/en/">
-      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/java.png" height=20> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/java.png" height=40> 
       </a>
     </th>
+      <th>
+      <a href="https://flutter.dev/">
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/Flutter.png" height=30> 
+      </a>
+  
   </tr>
 </table>
 
 
-<!--
-**N3wro/N3wro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
