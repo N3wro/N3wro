@@ -6,7 +6,7 @@
 
 <p>My name is Efekan Kartal and I am a software developer from Austria. </p>
 
-<h2> Programming Languages </h2>
+<h2> Programming Languages / Framework </h2>
 
 <ul>
   <li> Know/Using</li>
