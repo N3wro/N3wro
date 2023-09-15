@@ -16,7 +16,22 @@
   <tr>
     <th>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src=""> 
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/javascript.png" height=20> 
+      </a>
+    </th>
+      <th>
+      <a href="https://www.typescriptlang.org/">
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/typescript.png" height=20> 
+      </a>
+    </th>
+    <th>
+      <a href="https://www.open-std.org/jtc1/sc22/wg14/">
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/C.png" height=20> 
+      </a>
+    </th>
+        <th>
+      <a href="https://www.java.com/en/">
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/java.png" height=20> 
       </a>
     </th>
   </tr>
