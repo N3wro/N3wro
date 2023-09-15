@@ -52,6 +52,10 @@
       <a href="https://www.mongodb.com/de-de">
         <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/mongoDB.png" height=30>
     </th>
+            <th>
+      <a href="https://jupyter.org/">
+        <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/jupyter.png" height=30>
+    </th>
   </tr>
 </table>
 
