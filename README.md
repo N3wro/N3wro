@@ -75,7 +75,7 @@
     </th>
     <th>
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
-      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/c-sharp.png" height=30>
+      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/Rust_programming_language_black_logo.svg.png" height=30>
       </a>
     </th>
   </tr>
