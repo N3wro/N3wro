@@ -54,31 +54,16 @@
       <a href="https://www.mongodb.com/de-de">
         <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/mongoDB.png" height=30>
     </th>
-            <th>
-      <a href="https://jupyter.org/">
-        <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/jupyter.png" height=30>
-    </th>
-  </tr>
-</table>
-
-
-<ul>
-  <li> Learning</li>
-</ul>
-
-<table>
-  <tr>
-    <th>
+      <th>
       <a href="https://angular.io/"> 
       <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/angular.png" height=30>
       </a>
     </th>
-    <th>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> 
-      <img src="https://github.com/N3wro/N3wro/blob/main/docs/assets/images/Rust_programming_language_black_logo.svg.png" height=30>
-      </a>
-    </th>
   </tr>
+
+      
 </table>
 
+<h2>Next up:</h2>
+<h3> <a href="https://create.t3.gg/"> &nbsp; &nbsp; &nbsp; T3 </a></h3>
 
